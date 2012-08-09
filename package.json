@@ -1,0 +1,21 @@
+{
+  "name": "openssl-rsautl",
+  "version": "0.0.0",
+  "description": "Simple OpenSSL rsautl wrapper",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvinci/node-rsa.git"
+  },
+  "keywords": [
+    "openssl",
+    "rsa",
+    "encryption",
+    "decryption",
+    "crypto"
+  ],
+  "author": "Jan Buschtöns <buschtoens@gmail.com>"
+}
